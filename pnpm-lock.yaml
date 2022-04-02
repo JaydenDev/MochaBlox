@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  clipcc-extension: ^0.1.7
+
+dependencies:
+  clipcc-extension: 0.1.7
+
+packages:
+
+  /clipcc-extension/0.1.7:
+    resolution: {integrity: sha512-CLQuOiWX02p7knh98OOGY61nbynO/8SGsulICXwk4cSvPJgeaB3krdjmWMNTb4+CAmB6+gVY8nd4x33DJm6IJQ==}
+    dev: false
