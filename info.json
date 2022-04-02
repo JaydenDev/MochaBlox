@@ -1,0 +1,8 @@
+{
+    "id": "jdev.mochablox",
+    "author": "JaydenDev",
+    "version": "1.0.0",
+    "icon": "assets/icon.jpg",
+    "inset_icon": "assets/inset_icon.svg",
+    "api": 1
+}
